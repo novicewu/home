@@ -31,3 +31,4 @@
 ||time.video.ptqy.gitv.tv^
 ||data.video.ptqy.gitv.tv^
 ||otysdktj.tvfuwu.com^
+||probe-cdn.ptqy.gitv.tv^
