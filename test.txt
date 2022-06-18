@@ -1,5 +1,5 @@
 !Title: test-AD
-!Version: 202206172006
+!Version: 202206181812
 ||act.vip.ptqy.gitv.tv^
 ||afdback.ptqy.gitv.tv^
 ||alicocsouth.inter.ptqy.gitv.tv^
@@ -32,3 +32,4 @@
 ||data.video.ptqy.gitv.tv^
 ||inter.ptqy.gitv.tv^
 ||otysdktj.tvfuwu.com^
+||inter.ptqy.gitv.tv^
