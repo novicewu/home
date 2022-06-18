@@ -30,6 +30,4 @@
 ||subscription.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
 ||data.video.ptqy.gitv.tv^
-||inter.ptqy.gitv.tv^
 ||otysdktj.tvfuwu.com^
-||inter.ptqy.gitv.tv^
