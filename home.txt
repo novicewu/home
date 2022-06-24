@@ -40,7 +40,7 @@
 ||policy.video.ptqy.gitv.tv^
 ||probe-cdn.ptqy.gitv.tv^
 ||qosp.iqiyi.com^
-||qun7.com^$important
+||qun7.com^
 ||sdk-cache.video.ptqy.gitv.tv^
 ||search.video.mp.tvguo.tv^
 ||sns-follow.ptqy.gitv.tv^
