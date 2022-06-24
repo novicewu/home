@@ -1,5 +1,9 @@
 !Title: test-AD
 !Version: 202206181812
+
+@@||clients6.google.com^
+
+
 ||act.vip.ptqy.gitv.tv^
 ||afdback.ptqy.gitv.tv^
 ||alicocsouth.inter.ptqy.gitv.tv^
