@@ -50,5 +50,11 @@
 ||static.ptqy.gitv.tv^
 ||subscription.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
+||inott2.api.mgtv.com^
+||inott.api.mgtv.com^
+||im.i-click.cn^
+||dataflow.snm0516.aisee.tv
+||scs-hcdn.ptqy.gitv.tv^
+
 
 
