@@ -56,5 +56,10 @@
 ||dataflow.snm0516.aisee.tv
 ||scs-hcdn.ptqy.gitv.tv^
 
+||shifen.com
+||dnsv1.com
+||tdnsstic1.cn
+
+
 
 
