@@ -57,8 +57,6 @@
 ||scs-hcdn.ptqy.gitv.tv^
 
 ||shifen.com^
-||dnsv1.com^
-||tdnsstic1.cn^
 ||im.i-click.cn^
 ||bsgslb.cn^
 ||163jiasu.com^
