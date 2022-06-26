@@ -56,11 +56,5 @@
 ||dataflow.snm0516.aisee.tv
 ||scs-hcdn.ptqy.gitv.tv^
 
-
 ||im.i-click.cn^
 ||bsgslb.cn^
-||163jiasu.com^
-
-
-
-
