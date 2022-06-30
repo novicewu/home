@@ -63,6 +63,9 @@
 ||piq.in-neo.cn^
 ||aisee.tv^
 ||push.duiopen.com^
+||ad.xelements.cn^
+||photosapi.niuaniua.com^
+
 ||pic5.inter.ptqy.gitv.tv^
 ||pic9.inter.ptqy.gitv.tv^
 
