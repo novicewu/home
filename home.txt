@@ -23,15 +23,13 @@
 ||gds.alibabadns.com^
 ||huaweicdnct.inter.ptqy.gitv.tv^
 ||hwcdnct.inter.ptqy.gitv.tv^
-||inott3.api.mgtv.com^
+
 ||ivg.ptqy.gitv.tv^
 ||l-rcd.ptqy.gitv.tv^
 ||m.inter.ptqy.gitv.tv^
 ||opencdniqiyistaticv6.jomodns.com^
 ||ota.ptqy.gitv.tv^
-||ottdbui-tyapihezijia.yysh.mgtv.com^
-||ottdbui-tyapiqun7.yysh.mgtv.com^
-||ottdbui-zmimg.yysh.mgtv.com^
+
 ||otysdktj.niuaniua.com^
 ||otysdktj.tvfuwu.com^
 ||otysdktj.tvfuwu.com^
@@ -49,15 +47,13 @@
 ||static.ptqy.gitv.tv^
 ||subscription.ptqy.gitv.tv^
 ||time.video.ptqy.gitv.tv^
-||inott2.api.mgtv.com^
-||inott.api.mgtv.com^
+
 ||im.i-click.cn^
 ||dataflow.snm0516.aisee.tv
 ||scs-hcdn.ptqy.gitv.tv^
 
 ||im.i-click.cn^
-||inott2.api.mgtv.com^
-||inott.api.mgtv.com^
+
 ||im.i-click.cn^
 ||scs-hcdn.ptqy.gitv.tv^
 ||piq.in-neo.cn^
@@ -65,15 +61,4 @@
 ||push.duiopen.com^
 ||ad.xelements.cn^
 ||photosapi.niuaniua.com^
-
-||pic1.inter.ptqy.gitv.tv^
-||pic2.inter.ptqy.gitv.tv^
-||pic3.inter.ptqy.gitv.tv^
-||pic4.inter.ptqy.gitv.tv^
-||pic5.inter.ptqy.gitv.tv^
-||pic6.inter.ptqy.gitv.tv^
-||pic7.inter.ptqy.gitv.tv^
-||pic8.inter.ptqy.gitv.tv^
-||pic9.inter.ptqy.gitv.tv^
-||pic0.inter.ptqy.gitv.tv^
 
