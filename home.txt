@@ -66,6 +66,14 @@
 ||ad.xelements.cn^
 ||photosapi.niuaniua.com^
 
+||pic1.inter.ptqy.gitv.tv^
+||pic2.inter.ptqy.gitv.tv^
+||pic3.inter.ptqy.gitv.tv^
+||pic4.inter.ptqy.gitv.tv^
 ||pic5.inter.ptqy.gitv.tv^
+||pic6.inter.ptqy.gitv.tv^
+||pic7.inter.ptqy.gitv.tv^
+||pic8.inter.ptqy.gitv.tv^
 ||pic9.inter.ptqy.gitv.tv^
+||pic0.inter.ptqy.gitv.tv^
 
